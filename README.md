@@ -1,0 +1,1 @@
+Pagina con catalogo de autos, aplicacion de filtros y partiendo de la busqueda , actualizacion del catalogo que muestra la pagina.
