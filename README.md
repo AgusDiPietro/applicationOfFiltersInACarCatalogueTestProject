@@ -1,1 +1,1 @@
-Pagina con catalogo de autos, aplicacion de filtros y partiendo de la busqueda , actualizacion del catalogo que muestra la pagina.
+Page with a catalog of cars, application of filters and based on the search, updating of the catalog that the page shows.
